@@ -1,0 +1,13 @@
+.tc-l h1 {
+    color: #ffffff !important;
+}
+@media screen and (min-width: 60em) {
+    .pb6-l {
+      padding-bottom: 2rem !important;
+    }
+}
+
+
+/* h2 {
+    color: #ffffff !important;
+} */
