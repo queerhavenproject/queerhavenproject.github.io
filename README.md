@@ -8,3 +8,4 @@ More pages can be added by copying existing markdown files into the directories,
 
 Basic customization is possible by editing config.toml or the headers on each markdown file with parameter tags for that specific page. More customization is possible through the custom.css file for experts. 
 
+This website is built and deployed live by Github Actions, changes to the main branch will trigger a new build to deploy. 
