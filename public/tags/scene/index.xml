@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scene on Ottawa Queer Haven Project</title>
+    <link>http://localhost:1313/tags/scene/</link>
+    <description>Recent content in Scene on Ottawa Queer Haven Project</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 09 Apr 2017 10:58:08 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Housing</title>
+      <link>http://localhost:1313/learning/chapter-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/learning/chapter-1/</guid>
+      <description>&lt;p&gt;Lorem ipsum odor amet, consectetuer adipiscing elit. Rhoncus magna per, aliquam enim praesent ante. Vulputate imperdiet vestibulum sapien, felis gravida mattis. Praesent porta potenti natoque netus elit ullamcorper convallis habitasse. Tristique auctor himenaeos id lectus ridiculus pulvinar dolor. Ipsum conubia venenatis suscipit libero est nullam id. Sollicitudin commodo class dictum turpis dictum platea luctus pulvinar.&lt;/p&gt;&#xA;&lt;p&gt;Dis nam amet auctor sodales, aliquam cubilia neque praesent. Mus per eros felis magnis conubia semper. Non tellus nisl dignissim laoreet ipsum aliquam tellus hendrerit. Laoreet condimentum tempus convallis per hac gravida ipsum a. Praesent suspendisse tellus egestas tincidunt eu nostra convallis. Odio diam eleifend est arcu bibendum varius, sapien penatibus commodo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

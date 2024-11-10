@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Learning on Ottawa Queer Haven Project</title>
+    <link>http://localhost:1313/learning/</link>
+    <description>Recent content in Learning on Ottawa Queer Haven Project</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 11 Apr 2017 11:13:32 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Social Services for Queers in Ottawa</title>
+      <link>http://localhost:1313/learning/chapter-3/</link>
+      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      <guid>http://localhost:1313/learning/chapter-3/</guid>
+      <description>&lt;p&gt;Lorem ipsum odor amet, consectetuer adipiscing elit. Diam molestie inceptos sodales inceptos fusce facilisi. Molestie consectetur id consectetur pretium, inceptos cursus ornare montes. Libero eros nunc quis vestibulum massa; vitae auctor pharetra. Habitant tempor elementum pulvinar nibh vulputate eu ex consectetur. Arcu phasellus laoreet eros aliquam duis turpis cubilia. Facilisi fames lacus auctor, iaculis praesent nostra. Dictum egestas cras finibus lectus quisque quis aenean mauris nascetur? Sodales velit fusce auctor a; cras condimentum fringilla.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mental Health Support</title>
+      <link>http://localhost:1313/learning/chapter-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      <guid>http://localhost:1313/learning/chapter-2/</guid>
+      <description>&lt;p&gt;Lorem ipsum odor amet, consectetuer adipiscing elit. Consectetur dui semper tristique primis fringilla gravida tempor. Porta elit scelerisque curabitur finibus justo montes. Dignissim pharetra ligula justo fringilla accumsan aliquet; dis venenatis. Sapien ac elit gravida eros turpis tincidunt ex vivamus. Non amet urna ligula malesuada condimentum bibendum auctor a curabitur. Aenean duis proin ultricies sit porta varius bibendum. Imperdiet euismod ultrices tellus arcu senectus mi.&lt;/p&gt;&#xA;&lt;p&gt;Parturient fames libero sociosqu nostra molestie mollis accumsan. Dapibus rutrum aliquet est porta velit erat donec pulvinar. Faucibus adipiscing mus taciti erat augue. Sem libero hac orci sed sagittis morbi aliquet a potenti. Ultrices morbi velit placerat natoque duis nunc. Tortor consectetur litora, maximus nulla consequat himenaeos. Parturient consequat eros lectus auctor netus faucibus habitant porttitor. Montes ultricies bibendum nam pretium porta eget nunc venenatis sociosqu. Turpis per posuere aliquet est mus cubilia.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Housing</title>
+      <link>http://localhost:1313/learning/chapter-1/</link>
+      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/learning/chapter-1/</guid>
+      <description>&lt;p&gt;Lorem ipsum odor amet, consectetuer adipiscing elit. Rhoncus magna per, aliquam enim praesent ante. Vulputate imperdiet vestibulum sapien, felis gravida mattis. Praesent porta potenti natoque netus elit ullamcorper convallis habitasse. Tristique auctor himenaeos id lectus ridiculus pulvinar dolor. Ipsum conubia venenatis suscipit libero est nullam id. Sollicitudin commodo class dictum turpis dictum platea luctus pulvinar.&lt;/p&gt;&#xA;&lt;p&gt;This is an image &lt;img alt=&#34;Really cool infographic, sure to inspire&#34; src=&#34;http://localhost:1313/images/example_infographic.jpg&#34; title=&#34;Image Hover Text&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Dis nam amet auctor sodales, aliquam cubilia neque praesent. Mus per eros felis magnis conubia semper. Non tellus nisl dignissim laoreet ipsum aliquam tellus hendrerit. Laoreet condimentum tempus convallis per hac gravida ipsum a. Praesent suspendisse tellus egestas tincidunt eu nostra convallis. Odio diam eleifend est arcu bibendum varius, sapien penatibus commodo.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
