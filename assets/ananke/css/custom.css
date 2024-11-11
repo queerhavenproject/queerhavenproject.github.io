@@ -1,12 +1,27 @@
 .tc-l h1 {
-    color: #ffffff !important;
+    color: #000000 !important;
 }
+
+.tc-l h2 {
+    color: #000000 !important;
+}
+
+.flex-l a{
+    color: rgb(0, 0, 0) !important;
+}
+
 @media screen and (min-width: 60em) {
     .pb6-l {
       padding-bottom: 2rem !important;
     }
 }
 
+@media screen and (min-width: 30em) {
+  .dib-ns {
+    display: inline-block;
+    color: rgb(0, 0, 0);
+  }
+}
 
 /* h2 {
     color: #ffffff !important;
