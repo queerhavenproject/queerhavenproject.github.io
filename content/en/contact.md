@@ -11,8 +11,4 @@ menu: main
 
 We would love to hear from you! If you have questions about the information in this site, you have suggestions to improve our project, want to get involved or just want to reach out. Please fill in the form below and we will get back to you as soon as possible.
 
-Kelly - Check out [Formspree](https://formspree.io/) to set up a simple free service. 
-
-This is a test.
-
-{{< form-contact action="https://example.com"  >}}
+{{< form-contact action="https://formspree.io/f/meoqkkkw"  >}}
