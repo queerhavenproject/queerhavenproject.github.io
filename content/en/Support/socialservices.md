@@ -9,5 +9,7 @@ text_color:
 # background_color_class: bg-purple
 ---
 
-Lorem ipsum odor amet, consectetuer adipiscing elit. Rhoncus magna per, aliquam enim praesent ante. Vulputate imperdiet vestibulum sapien, felis gravida mattis. Praesent porta potenti natoque netus elit ullamcorper convallis habitasse. Tristique auctor himenaeos id lectus ridiculus pulvinar dolor. Ipsum conubia venenatis suscipit libero est nullam id. Sollicitudin commodo class dictum turpis dictum platea luctus pulvinar.
+Kind space
+Offers a physical safe space and community support for 2SLGBTQ+ folks 
+https://kindspace.ca/ - 613-563-4818
 
