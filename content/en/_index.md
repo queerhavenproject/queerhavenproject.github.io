@@ -6,6 +6,7 @@ theme_version: '2.8.2'
 #cascade:
   #featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 ---
+
 ### What is 613 Queer Haven?
 
 The 613 Queer Haven Project is a call to action addressing the urgent need for inclusive, accessible, and safe housing services for 2SLGBTQIA+ adults experiencing homelessness in Ottawa. Through existing research and literature, we highlight critical service gaps and advocate for systemic change at policy, municipal, and service delivery levels.
