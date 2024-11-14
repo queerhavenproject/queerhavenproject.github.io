@@ -31,6 +31,7 @@ Your voice matters in creating change. Sign our petition calling on City of Otta
 
 <a href="/static/letter.pdf" download>Click here to sign the call to action</a>
 
+After signing the letter, please send it to your local representatives. You can find contact information for the City of Ottawa mayor and city councillors by [clicking here](https://ottawa.ca/en/city-hall/mayor-and-city-councillors).
 
 As a collective, we can move towards the crucial change needed for our community. 
 
