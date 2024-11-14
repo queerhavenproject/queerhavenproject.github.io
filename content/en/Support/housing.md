@@ -8,16 +8,8 @@ author: A. Author
 # background_color_class: bg-purple
 ---
 
+### Emergency Shelters
 
-Lorem ipsum odor amet, consectetuer adipiscing elit. Rhoncus magna per, aliquam enim praesent ante. Vulputate imperdiet vestibulum sapien, felis gravida mattis. Praesent porta potenti natoque netus elit ullamcorper convallis habitasse. Tristique auctor himenaeos id lectus ridiculus pulvinar dolor. Ipsum conubia venenatis suscipit libero est nullam id. Sollicitudin commodo class dictum turpis dictum platea luctus pulvinar.
+[Cornerstone Housing for Women](https://cornerstonewomen.ca/programs-and-services/shelter/)
+- Phone: 613-237-4669
 
-
-This is a list:
-* Item 1
-* Item 2
-* Item 3
-* [Link to a page](google.com)
-
-
-
-Lorem ipsum odor amet, consectetuer adipiscing elit. Rhoncus magna per, aliquam enim praesent ante. Vulputate imperdiet vestibulum sapien, felis gravida mattis. Praesent porta potenti natoque netus elit ullamcorper convallis habitasse. Tristique auctor himenaeos id lectus ridiculus pulvinar dolor. Ipsum conubia venenatis suscipit libero est nullam id. Sollicitudin commodo class dictum turpis dictum platea luctus pulvinar.
