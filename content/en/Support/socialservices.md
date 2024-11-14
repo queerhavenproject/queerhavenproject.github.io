@@ -2,7 +2,7 @@
 date: 2024-11-10T10:58:08-04:00
 description: ""
 # featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
-tags: ["community" "support"]
+tags: ["community", "support"]
 title: "Inclusive Social Services in Ottawa"
 author: 613 Queer Haven
 text_color:
