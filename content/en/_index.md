@@ -11,12 +11,12 @@ cascade:
 <style>p {text-align: left}</style>
 
 
-## What is 613 Queer Haven?
+## What is the Ottawa Queer Haven Project?
 
-The 613 Queer Haven Project is a call to action addressing the urgent need for inclusive, accessible, and safe housing services for 2SLGBTQIA+ adults experiencing homelessness in Ottawa. Through existing research and literature, we highlight critical service gaps and advocate for systemic change at policy, municipal, and service delivery levels.
+The Ottawa Queer Haven Project is a call to action addressing the urgent need for inclusive, accessible, and safe housing services for 2SLGBTQIA+ adults experiencing homelessness in Ottawa. Through existing research and literature, we highlight critical service gaps and advocate for systemic change at policy, municipal, and service delivery levels.
 
 ## Who We Are
-We are a pair of MSW students who have witnessed the gaps in the Ottawa homelessness sector through direct service work. Through our experiences and reviewing current research, there is a clear urgent need for change for services supporting 2SLGBTQIA+ adults facing homelessness.
+We are two students in the master of social work program at Carleton University. We have witnessed first-hand the gaps in the Ottawa homelessness sector through direct service work. Through our experiences and reviewing current research, there is a clear urgent need for change for services supporting 2SLGBTQIA+ adults facing homelessness.
 
 <!-- Make this list bold for emphasis!! -->
 <style>li {font-weight: bold}</style>
