@@ -7,8 +7,12 @@ author: Queer Haven 613
 title: "2SLGBTQIA+ Homelessness: Key Facts"
 text_color:
 # background_color_class: bg-purple
+cover_dimming_class: "bg-white-20"
+
 ---
 Please check out key information below highlighting the inequities 2SLGBTQIA+ indivduals experience while homeless: 
+
+<!--more-->
 
 * 119,000 People identified as LGBTQ+ and were experiencing homelessness in 2023
 * 77.9% of LGBTQ+ persons experiencing homelessness have experienced criminal victimization

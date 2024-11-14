@@ -4,14 +4,16 @@ description: "discrimination gaps"
 # featured_image: ""
 tags: ["barriers"]
 author: Queer Haven 613
-
 title: "Systemic Barriers"
+cover_dimming_class: "bg-white-20"
 ---
+
 ### Summary of Findings from Recent Research 
 
 #### Service Gaps Identified for the 2SLGBTQIA+ Homeless Community
 
 In September 2020 the City of Ottawa asked citizens to engage in their community safety and wellbeing research [^1]. Out of the 709 respondents, the following points were found: 
+<!--more-->
  - 28% of respondents spoke of the priority of the city of ottawa focusing on the issue of discrimination/marginalization towards LGBTQ individuals due to the continued prevalence of violence  
  - Nearly one-fifth (18.94%) of respondents identified housing and homelessness as a critical priority for the 2SLGBTQIA+ community, specifically highlighting the need for: safe and inclusive emergency shelter options, accessible housing programs, protection against housing discrimination and affordable housing solutions
 

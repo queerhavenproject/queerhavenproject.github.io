@@ -5,15 +5,16 @@ description: ""
 tags: ["community", "support"]
 title: "Inclusive Social Services in Ottawa"
 author: 613 Queer Haven
-text_color:
-# background_color_class: bg-purple
+# text_color:
+#background_color_class: bg-purple
+cover_dimming_class: "bg-white-20"
 ---
 
 ### Crisis Support
-
 Mental Health and Addiction Centre Line
 - 24/7 crisis intervention and suicide prevention for ages 16+
 - Phone: 613-722-6914 (Ottawa) | 1866-966-0991(Outside Ottawa)
+<!--more-->
 
 Distress Centre Ottawa
 - 24/7 confidential emotional support and crisis intervention

@@ -5,11 +5,14 @@ description: "This is big stuff."
 tags: ["community"]
 author: 613 Queer Haven
 title: "Models for Change: Community Examples"
+cover_dimming_class: "bg-white-20"
 ---
 
 ### Promising Approaches in Action
 
 Ottawa can utilize the example of Toronto’s 2SLGBTQIA+ shelter for refugees as a template for meeting Ottawa's needs. 
+
+<!--more-->
 
 519 Shelter meets the needs of the 2SLGBTQIA+ community by: [^1] 
  

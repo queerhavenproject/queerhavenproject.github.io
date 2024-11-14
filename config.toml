@@ -42,11 +42,14 @@ background_color_class = "bg-light-green"
 # choose fitting and alignment styles for the featured image using Tachyons classes such as "cover|contain" for fitting and "bg-top|bg-center|bg-bottom" for alignment, or add any other class space-separated to customize further
 featured_image_class = "cover bg-center"
 # choose a color dimming class for the page or site header from any on this page: https://tachyons.io/docs/themes/skins/, preface it with "bg-" and add the value such as "-X0" where X is in [1,9]
-cover_dimming_class = "bg-light-green-40"
+cover_dimming_class = "bg-white-20"
 recent_posts_number = 1
 custom_css = ["custom.css"]
 emailAddress = "test@mail.com"
 body_classes = "avenir bg-near-white"
+
+[markup.goldmark.renderer]
+unsafe = true #to enable html directly in markdown
 
 [params.ananke.social.share]
 networks = [

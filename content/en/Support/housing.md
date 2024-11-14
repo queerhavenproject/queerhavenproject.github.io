@@ -6,12 +6,17 @@ title: "Housing Supports"
 author: 613 Queer Haven
 # text_color:
 # background_color_class: bg-purple
+cover_dimming_class: "bg-light-green-40"
+
 ---
 
 ### Emergency Shelters
+<!-- Add the more tag where you want the "Read more" to trigger  -->
+
 
 #### [Cornerstone Housing for Women](https://cornerstonewomen.ca/programs-and-services/shelter/)
 - Phone: 613-237-4669
+<!--more--> 
 
 
 #### City of Ottawa
