@@ -1,6 +1,6 @@
 ---
 date: 2024-11-10T10:58:08-04:00
-description: "queer homeless info"
+description: ""
 # featured_image: "/images/Pope-Edouard-de-Beaumont-1844.jpg"
 tags: ["housing", "homelessness"]
 author: Queer Haven 613
