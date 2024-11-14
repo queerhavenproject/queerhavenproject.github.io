@@ -1,8 +1,8 @@
 ---
 title: "Support"
-date: 2017-03-02T12:00:00-05:00
-featured_image: "/images/inclusion_placeholder.jpg"
+date: 2024-11-09T10:58:08-04:00
+featured_image: "/images/rainbow_flagsupport.jpg"
 ---
 
-Check out the pages below to learn about support services in the 613. 
+Check out the pages below to learn about inclusive support services for 2SLGTBQIA+ folks in the Ottawa area.
 
