@@ -136,12 +136,12 @@ Rainbow Peers Support Group
 
 ### Service Navigation 
 
-- Champlain Regional Planning Table for Gender Diverse Health
+Champlain Regional Planning Table for Gender Diverse Health
 - https://transhealthottawa.org/
 
-- Rainbow Health Ontario
+Rainbow Health Ontario
 - https://www.rainbowhealthontario.ca/
 
-- pflag canada 
+pflag canada 
 - https://pflagcanada.ca/
 
