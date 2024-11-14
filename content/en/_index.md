@@ -15,9 +15,9 @@ The 613 Queer Haven Project is a call to action addressing the urgent need for i
 We are a pair of MSW students who have witnessed the gaps in the Ottawa homelessness sector through direct service work. Through our experiences and reviewing current research, there is a clear urgent need for change for services supporting 2SLGBTQIA+ adults facing homelessness.
 
 ### Our Purpose
-- Advocate for policy changes and funding increases to address service gaps
-- Challenge systemic barriers in housing services
-- Educate decision-makers and service providers
-- Raise public awareness 
-- Drive meaningful institutional change
+1. Advocate for policy changes and funding increases to address service gaps
+2. Challenge systemic barriers in housing services
+3. Educate decision-makers and service providers
+4. Raise public awareness
+5. Drive meaningful institutional change
 
