@@ -1,7 +1,7 @@
 ---
 title: "Learning"
 date: 2024-11-09T10:58:08-04:00
-featured_image: "/images/colourful-books.jpg"
+featured_image: "/images/oldbooks.jpg"
 description: 
 ---
 
