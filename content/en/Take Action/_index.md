@@ -21,7 +21,7 @@ We have yet to see meaningful action or concrete plans from the City of Ottawa t
 4. Improve data collection on 2SLGBTQIA+ communities
 5. Address the continuation of discrimination against 2SLGBTQIA+ community regarding housing and shelter access
 
-### Support the 613 Queer Haven Project
+### Support the Ottawa Queer Haven Project
 Your voice matters in creating change. Sign our petition calling on City of Ottawa to take immediate action on providing safe, affirming shelter spaces for 2SLGBTQIA+ adults experiencing homelessness.
 
 Petition Link
