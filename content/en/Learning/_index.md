@@ -5,4 +5,4 @@ featured_image: "/images/chalk_learning.jpg"
 description: "lets learn"
 ---
 
-Check out the posts below to learn more about the critical issues affecting 2SLGBTQIA adults.
+Check out the posts below to learn more about the queer housing crisis, service gaps for 2SLGBTQIA+ individuals experiencing homelessness, and community examples of change.
