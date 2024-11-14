@@ -12,9 +12,12 @@ author: A. Author
 
 [Cornerstone Housing for Women](https://cornerstonewomen.ca/programs-and-services/shelter/)
 - Phone: 613-237-4669
+
+
 City of Ottawa
 - Phone: 311
 - https://ottawa.ca/en/city-hall/creating-equal-inclusive-and-diverse-city/accessibility-city/housing
+
 
 Chrysalis House VAW Shelter 
  - Phone: 613-591-5901
