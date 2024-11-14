@@ -1,6 +1,6 @@
 ---
 date: 2024-11-09T10:58:08-04:00
-description: ""
+description:
 # featured_image: ""
 tags: ["barriers"]
 author: Queer Haven 613
