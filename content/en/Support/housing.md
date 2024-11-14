@@ -18,19 +18,15 @@ cover_dimming_class: "bg-light-green-40"
 - Phone: 613-237-4669
 <!--more--> 
 
-
-#### City of Ottawa
+#### [City of Ottawa Shelters](https://ottawa.ca/en/city-hall/creating-equal-inclusive-and-diverse-city/accessibility-city/housing)
 - Phone: 311
-- https://ottawa.ca/en/city-hall/creating-equal-inclusive-and-diverse-city/accessibility-city/housing
 
-
-#### Chrysalis House VAW Shelter 
+#### [Chrysalis House VAW Shelter](https://wocrc.ca/program/chrysalis-house/)
  - Phone: 613-591-5901
- - https://wocrc.ca/program/chrysalis-house/
 
-#### Youth Services Bureau 
-- Support for youth aged 16-20
-  - Evelyn Horne Young Women’s Emergency Shelter
-  - https://www.ysb.ca/services/community-and-housing-services/housing-and-shelter/young-womens-shelter/
-Phone: 613-789-8220
+#### [Youth Services Bureau](https://www.ysb.ca/)
+- Housing Support for youth aged 16-20
+- Head office phone: 613-729-1000
+  - [Evelyn Horne Young Women’s Emergency Shelter](https://www.ysb.ca/services/community-and-housing-services/housing-and-shelter/young-womens-shelter/)
+  - Phone: 613-789-8220
 

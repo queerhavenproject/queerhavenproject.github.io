@@ -1,6 +1,6 @@
 ---
 date: 2024-11-12T10:58:08-04:00
-description: "This is big stuff."
+description:
 # featured_image: ""
 tags: ["community"]
 author: 613 Queer Haven
