@@ -1,6 +1,6 @@
 ---
 title: "Learning"
-date: 2017-03-02T12:00:00-05:00
+date: 2024-11-09T10:58:08-04:00
 featured_image: "/images/chalk_learning.jpg"
 description: "lets learn"
 ---
