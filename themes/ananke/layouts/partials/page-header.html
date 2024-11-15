@@ -25,3 +25,13 @@
     </div>
   </header>
 {{ end }}
+{{ if .Params.featured_image }}
+<div class="featured-image-wrapper">
+  <img src="{{ .Params.featured_image }}" 
+       alt="{{ .Params.featured_image_alt }}"
+       class="featured-image">
+  {{ if .Params.featured_image_credit }}
+    <div class="image-credit">{{ .Params.featured_image_credit }}</div>
+  {{ end }}
+</div>
+{{ end }}
