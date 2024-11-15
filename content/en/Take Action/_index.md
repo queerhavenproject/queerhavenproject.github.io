@@ -29,9 +29,9 @@ We have yet to see meaningful action or concrete plans from the City of Ottawa t
 5. Address the continuation of discrimination against 2SLGBTQIA+ community regarding housing and shelter access<br><br>
 
 ## Support the Ottawa Queer Haven Project
-Your voice matters in creating change. Sign our petition calling on City of Ottawa to take immediate action on providing safe, affirming shelter spaces for 2SLGBTQIA+ adults experiencing homelessness.
+Your voice matters in creating change. Sign the letter below calling on City of Ottawa to take immediate action on providing safe, affirming shelter spaces for 2SLGBTQIA+ adults experiencing homelessness.
 
-[Click this link to sign the PDF Call to Action](/letter.pdf)
+[Click this link to download and sign the call to action](/letter.pdf)
 
 After signing the letter, please send it to your local representatives. You can find contact information for the City of Ottawa mayor and city councillors by [clicking here](https://ottawa.ca/en/city-hall/mayor-and-city-councillors).
 
