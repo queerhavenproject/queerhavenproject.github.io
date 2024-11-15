@@ -27,3 +27,17 @@
 /* h2 {
     color: #ffffff !important;
 } */
+
+.featured-image-wrapper {
+  position: relative;
+}
+
+.image-credit {
+  position: absolute;
+  bottom: 10px;
+  right: 10px;
+  background: rgba(0,0,0,0.7);
+  color: white;
+  padding: 5px 10px;
+  font-size: 0.8em;
+}
