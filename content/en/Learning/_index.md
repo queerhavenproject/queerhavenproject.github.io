@@ -7,3 +7,6 @@ featured_image_credit: "Photo by Kishore Uthamaraj on Unsplash"
 ---
 
 Check out the posts below to learn more about the queer housing crisis, service gaps for 2SLGBTQIA+ individuals experiencing homelessness, and community examples of change.
+
+---
+*Featured header image: Centre Block of Parliament Hill, Ottawa. Photo by Kishore Uthamaraj/Unsplash*
