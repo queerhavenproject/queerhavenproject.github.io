@@ -2,6 +2,8 @@
 title: "Take Action"
 date: 2024-11-09T10:58:08-04:00
 featured_image: "/images/trans_action.png"
+featured_image_alt: "A group of activists standing together and holding a large blue, pink, and white transgender pride flag at a protest rally, demonstrating solidarity and advocacy for trans rights"
+featured_image_credit: "Photo by Oriel Frankie Ashcroft on Pexels"
 ---
 <style>li {text-align: left}</style> 
 <!-- {{/*  <style>li {font-weight: bold}</style>  */}} -->
@@ -34,5 +36,8 @@ Your voice matters in creating change. Sign our petition calling on City of Otta
 After signing the letter, please send it to your local representatives. You can find contact information for the City of Ottawa mayor and city councillors by [clicking here](https://ottawa.ca/en/city-hall/mayor-and-city-councillors).
 
 As a collective, we can move towards the crucial change needed for our community. 
+
+---
+*Featured header photo credit: Oriel Frankie Ashcroft/Pexels*
 
 
