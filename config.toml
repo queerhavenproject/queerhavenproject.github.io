@@ -56,3 +56,7 @@ networks = [
   "email"
 ]
 
+[params]
+  featured_image_alt = "A rainbow pride flag waving against a bright blue sky, symbolizing LGBTQ+ rights and inclusivity"
+  image_credit = "Photo by Rob Maxwell on Unsplash"
+
