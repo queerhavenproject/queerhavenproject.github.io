@@ -27,3 +27,20 @@
 /* h2 {
     color: #ffffff !important;
 } */
+
+.featured-image::after {
+  content: attr(title) " - Photo by Rob Maxwell on Unsplash";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.7);
+  color: white;
+  padding: 10px;
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.featured-image:hover::after {
+  opacity: 1;
+}
