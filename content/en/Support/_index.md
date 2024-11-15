@@ -9,3 +9,5 @@ description: ""
 
 Check out the pages below to learn about inclusive support services for 2SLGTBQIA+ folks in the Ottawa area.
 
+---
+*Featured header image: Rainbow Pride flag against blue sky. Photo by Rob Maxwell/Unsplash*
