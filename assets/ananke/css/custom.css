@@ -28,19 +28,38 @@
     color: #ffffff !important;
 } */
 
+.featured-image {
+    max-height: 400px;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
 .featured-image::after {
-  content: attr(title) " - Photo by Rob Maxwell on Unsplash";
-  position: absolute;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  background: rgba(0, 0, 0, 0.7);
-  color: white;
-  padding: 10px;
-  opacity: 0;
-  transition: opacity 0.3s;
+    content: attr(title);
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background: rgba(0, 0, 0, 0.7);
+    color: white;
+    padding: 8px;
+    font-size: 0.8em;
+    opacity: 0;
+    transition: opacity 0.3s;
 }
 
 .featured-image:hover::after {
-  opacity: 1;
+    opacity: 1;
+}
+
+@media screen and (max-width: 768px) {
+    .featured-image {
+        max-height: 300px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .featured-image {
+        max-height: 200px;
+    }
 }
