@@ -38,6 +38,6 @@ After signing the letter, please send it to your local representatives. You can 
 As a collective, we can move towards the crucial change needed for our community. 
 
 ---
-*Featured header photo credit: Oriel Frankie Ashcroft/Pexels*
+*Featured header image: Trans rights protest. Photo by Oriel Frankie Ashcroft/Pexels*
 
 
