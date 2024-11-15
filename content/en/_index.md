@@ -4,7 +4,9 @@ description: "Coummunity – Support – Action"
 # 1. To ensure Netlify triggers a build on our exampleSite instance, we need to change a file in the exampleSite directory.
 theme_version: '2.8.2'
 cascade:
-  featured_image: '/images/sidewalk_home.jpg'
+featured_image: '/images/sidewalk_home.jpg'
+featured_image_alt: "A vibrant Pride rainbow painted on a concrete sidewalk, featuring bold stripes of red, orange, yellow, green, blue, and purple colors, symbolizing LGBTQ+ inclusion, progress, and community belonging"
+featured_image_credit: "Photo by Rob Maxwell on Unsplash"
 ---
 <!-- These lines adjust HTML formatting for this page, li = list item for markdown lists, and  <p> for paragraphs, on the main page under headers -->
 <style>li {text-align: left}</style> 
