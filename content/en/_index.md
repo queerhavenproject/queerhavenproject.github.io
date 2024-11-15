@@ -30,3 +30,6 @@ We are two students in the master of social work program at Carleton University.
 4. Raise public awareness
 5. Drive meaningful institutional change
 
+   ---
+*Featured header image: Pride rainbow sidewalk. Photo by Rob Maxwell/Unsplash*
+
