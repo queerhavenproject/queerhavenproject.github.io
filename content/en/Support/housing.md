@@ -14,17 +14,17 @@ cover_dimming_class: "bg-light-green-40"
 <!-- Add the more tag where you want the "Read more" to trigger  -->
 
 
-#### [Cornerstone Housing for Women](https://cornerstonewomen.ca/programs-and-services/shelter/)
+##### [Cornerstone Housing for Women](https://cornerstonewomen.ca/programs-and-services/shelter/)
 - Phone: 613-237-4669
 <!--more--> 
 
-#### [City of Ottawa Shelters](https://ottawa.ca/en/city-hall/creating-equal-inclusive-and-diverse-city/accessibility-city/housing)
+##### [City of Ottawa Shelters](https://ottawa.ca/en/city-hall/creating-equal-inclusive-and-diverse-city/accessibility-city/housing)
 - Phone: 311
 
-#### [Chrysalis House VAW Shelter](https://wocrc.ca/program/chrysalis-house/)
+##### [Chrysalis House VAW Shelter](https://wocrc.ca/program/chrysalis-house/)
  - Phone: 613-591-5901
 
-#### [Youth Services Bureau](https://www.ysb.ca/)
+##### [Youth Services Bureau](https://www.ysb.ca/)
 - Housing Support for youth aged 16-20
 - Head office phone: 613-729-1000
   - [Evelyn Horne Young Women’s Emergency Shelter](https://www.ysb.ca/services/community-and-housing-services/housing-and-shelter/young-womens-shelter/)
