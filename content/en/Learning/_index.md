@@ -2,7 +2,7 @@
 title: "Learning"
 date: 2024-10-17T22:18:20-04:0
 featured_image: "/images/ottawa-image.jpg"
-featured_image_alt: "The historic Fairmont Château Laurier hotel in Ottawa, showcasing its French Gothic Revival architecture with steep copper roofs, turrets, and limestone facade, viewed through a stone bridge archway along the Rideau Canal"
+featured_image_alt: "The historic Fairmont Château Laurier hotel in Ottawa, showcasing its French Gothic architecture viewed through a stone bridge archway along the Rideau Canal"
 featured_image_credit: "Photo by Alex Lauzon (@unknown_613) on Unsplash"
 ---
 
