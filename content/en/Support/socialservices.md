@@ -97,7 +97,6 @@ cover_dimming_class: "bg-white-20"
 - Provides LGBTQ2S+ senior programs and social activities including:
   - 2SLGBTQIA+ adult day program, rainbow coffee club, out and about saturdays, and wellbeing-check in program
 - Phone: 613-236-0428
-- https://thegoodcompanions.ca/
 
 ##### [Minwaashin Lodge](https://www.minlodge.com/)
 - Indigenous women and 2SLGBTQIA+ support services
