@@ -2,86 +2,91 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/community/</loc>
+    <loc>//localhost:1313/tags/action/</loc>
     <lastmod>2024-11-12T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/learning/chapter-3/</loc>
+    <loc>//localhost:1313/tags/community/</loc>
     <lastmod>2024-11-12T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>//localhost:1313/learning/chapter-3/</loc>
     <lastmod>2024-11-12T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2024-11-12T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/learning/chapter-1/</loc>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2024-11-12T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>//localhost:1313/learning/chapter-1/</loc>
     <lastmod>2024-11-10T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/homelessness/</loc>
+    <loc>//localhost:1313/tags/homelessness/</loc>
     <lastmod>2024-11-10T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/housing/</loc>
+    <loc>//localhost:1313/tags/housing/</loc>
     <lastmod>2024-11-10T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/support/housing/</loc>
+    <loc>//localhost:1313/support/housing/</loc>
     <lastmod>2024-11-10T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/support/socialservices/</loc>
+    <loc>//localhost:1313/support/socialservices/</loc>
     <lastmod>2024-11-10T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/support/</loc>
+    <loc>//localhost:1313/tags/support/</loc>
     <lastmod>2024-11-10T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/tags/barriers/</loc>
+    <loc>//localhost:1313/tags/barriers/</loc>
     <lastmod>2024-11-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/learning/</loc>
+    <loc>//localhost:1313/support/</loc>
     <lastmod>2024-11-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/support/</loc>
+    <loc>//localhost:1313/learning/chapter-2/</loc>
     <lastmod>2024-11-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/learning/chapter-2/</loc>
+    <loc>//localhost:1313/take-action/</loc>
     <lastmod>2024-11-09T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/take-action/</loc>
-    <lastmod>2024-11-09T10:58:08-04:00</lastmod>
+    <loc>//localhost:1313/learning/</loc>
+    <lastmod>2024-10-17T22:18:20-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>//localhost:1313/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

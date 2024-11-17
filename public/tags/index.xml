@@ -2,45 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ottawa Queer Haven Project</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on Ottawa Queer Haven Project</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 12 Nov 2024 10:58:08 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Action</title>
+      <link>//localhost:1313/tags/action/</link>
+      <pubDate>Tue, 12 Nov 2024 10:58:08 -0400</pubDate>
+      <guid>//localhost:1313/tags/action/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Community</title>
-      <link>http://localhost:1313/tags/community/</link>
+      <link>//localhost:1313/tags/community/</link>
       <pubDate>Tue, 12 Nov 2024 10:58:08 -0400</pubDate>
-      <guid>http://localhost:1313/tags/community/</guid>
+      <guid>//localhost:1313/tags/community/</guid>
       <description></description>
     </item>
     <item>
       <title>Homelessness</title>
-      <link>http://localhost:1313/tags/homelessness/</link>
+      <link>//localhost:1313/tags/homelessness/</link>
       <pubDate>Sun, 10 Nov 2024 10:58:08 -0400</pubDate>
-      <guid>http://localhost:1313/tags/homelessness/</guid>
+      <guid>//localhost:1313/tags/homelessness/</guid>
       <description></description>
     </item>
     <item>
       <title>Housing</title>
-      <link>http://localhost:1313/tags/housing/</link>
+      <link>//localhost:1313/tags/housing/</link>
       <pubDate>Sun, 10 Nov 2024 10:58:08 -0400</pubDate>
-      <guid>http://localhost:1313/tags/housing/</guid>
+      <guid>//localhost:1313/tags/housing/</guid>
       <description></description>
     </item>
     <item>
       <title>Support</title>
-      <link>http://localhost:1313/tags/support/</link>
+      <link>//localhost:1313/tags/support/</link>
       <pubDate>Sun, 10 Nov 2024 10:58:08 -0400</pubDate>
-      <guid>http://localhost:1313/tags/support/</guid>
+      <guid>//localhost:1313/tags/support/</guid>
       <description></description>
     </item>
     <item>
       <title>Barriers</title>
-      <link>http://localhost:1313/tags/barriers/</link>
+      <link>//localhost:1313/tags/barriers/</link>
       <pubDate>Sat, 09 Nov 2024 10:58:08 -0400</pubDate>
-      <guid>http://localhost:1313/tags/barriers/</guid>
+      <guid>//localhost:1313/tags/barriers/</guid>
       <description></description>
     </item>
   </channel>

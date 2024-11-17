@@ -1,6 +1,6 @@
 ---
+date: 2024-10-17T22:18:20-04:00
 title: "Learning"
-date: 2024-10-17T22:18:20-04:0
 featured_image: "/images/peacetower.jpg"
 featured_image_alt: "The Peace Tower of Canada's Parliament Buildings in Ottawa, featuring its iconic Gothic Revival clock tower rising prominently against the sky, with the Canadian flag flying at its peak"
 featured_image_credit: "Photo by Hamid Siddiqi on Unsplash"

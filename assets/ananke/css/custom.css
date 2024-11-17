@@ -2,27 +2,25 @@
     color: #000000 !important;
 }
 
-@media screen and (min-width: 60em) {
-    .pb6-l {
-      padding-bottom: 2rem !important;
-    }
-    .flex-l a{
-      color: rgb(0, 0, 0) !important;
+  .pb6-l {
+    padding-bottom: 2rem !important;
   }
-  .tc-l h1 {
-    color: #000000 !important;
-}
-  .tc-l f2 {
+  .flex-l a{
     color: rgb(0, 0, 0) !important;
-  }
+}
+.tc-l h1 {
+  color: #000000 !important;
+}
+.tc-l f2 {
+  color: rgb(0, 0, 0) !important;
 }
 
-@media screen and (min-width: 30em) {
-  .dib-ns {
-    display: inline-block;
-    color: rgb(0, 0, 0);
-  }
+
+.dib-ns {
+  display: inline-block;
+  color: rgb(0, 0, 0);
 }
+
 
 /* h2 {
     color: #ffffff !important;
